@@ -85,10 +85,10 @@
 
 	</div>
 
-	<div class="flex flex-col">
+	<div class="flex flex-col mb-40">
 		<div class="overflow-x-auto sm:-mx-6 lg:-mx-8">
 			<div class="py-2 inline-block min-w-full sm:px-6 lg:px-8">
-				<div class="overflow-auto bg-gray-100 h-72">
+				<div class="overflow-scroll bg-gray-100 h-85">
 					<table class="min-w-full ">
 						<thead class="sticky top-0 px-6 py-3 z-10 bg-gray-800 white border-b text-white">
 							<tr>
